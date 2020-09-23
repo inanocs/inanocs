@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - I'm currently studying Web Development (DAW) (2019/now) at [Azarquiel](http://www.ies-azarquiel.es/)
 
 ## 💻**Current Learning**
-- ✔I'm currently learning advanced **CSS3** (**media-query**,**animations**,**transform**) and **Responsive Web Design** using **Grid** and **Flexbox**
-- ✔I'm currently learning JS libraries like **React** and frameworks like **Vue.js**.
-- ✔I'm currently learning backend techs with Java EE (**JSP**,**JSF**)
+- ✔Advanced **CSS3** (**media-query**,**animations**,**transform**) and **Responsive Web Design** using **Grid** and **Flexbox**
+- ✔JS libraries like **React** and frameworks like **Vue.js**.
+- ✔Backend techs with Java EE (**JSP**,**JSF**)
 ## ⚙**𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
 <table align="center>
