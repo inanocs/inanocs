@@ -90,11 +90,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/fernando-cabezas-sanchez/">
   <img align="left" alt="Fernando's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/inanocs">
-  <img align="left" alt="Fernando's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="mailto:nanocabezasanchez@gmail.com">
   <img align="left" alt="Fernando's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://github.com/inanocs">
+  <img align="left" alt="Fernando's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
 
