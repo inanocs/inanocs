@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 
 
-##📫 How to reach me:
+## 📫 How to reach me:
 
 <a href="https://twitter.com/_NanoSanchez">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
