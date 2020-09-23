@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## **𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
-<table align="center>
+<table align="center width="50%">
   <tbody>
     <tr valign="top">
       <td width="33%" align="center">
