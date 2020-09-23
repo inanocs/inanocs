@@ -50,7 +50,7 @@ Here are some ideas to get you started:
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><stong>MySQL</strong></span><br><br><br>
+        <span><stong>Sublime Text</strong></span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
       </td>
       <td width="25%" align="center">
@@ -69,7 +69,10 @@ Here are some ideas to get you started:
 
 ## Some Statistics About Me
 ![inanocs github stats](https://github-readme-stats.vercel.app/api?username=inanocs&&show_icons=true&title_color=ffffff&icon_color=blue&text_color=daf7dc&bg_color=151515)<br>
-<a href="https://github.com/inanocs"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dinanocs&longCache=true"/></a>
+<a href="https://github.com/inanocs"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dinanocs&longCache=true"/></a> 
+![Profile views](https://komarev.com/ghpvc/?username=inanocs&color=green)
+
+
 
 
 
