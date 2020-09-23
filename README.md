@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## **𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
-<table align="center width="50%">
+<table align="center>
   <tbody>
     <tr valign="top">
       <td width="33%" align="center">
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
          <span><strong>Bash Scripting</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
+     </tr>
     <tr valign="top">
       <td width="33%" align="center">
         <span><stong>Sublime Text</strong></span><br><br><br>
