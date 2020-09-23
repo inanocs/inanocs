@@ -79,6 +79,20 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="33%" align="center">
+        <span><strong>VMware</strong></span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/48/000000/old-vmware-logo.png">
+      </td>
+      <td width="33%" align="center">
+        <span><strong>VirtualBox</strong></span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/color/48/000000/virtualbox.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="33%" align="center">
+        <span><strong>Eclipse</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eclipse.svg">
+      </td>
+      <td width="33%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
