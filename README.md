@@ -2,6 +2,8 @@
 
 ## 🤔**About me**
 I'm a 22 years old **Web Development** and **Sysadmin**. I love all about Linux, open source, fullstack web development and new JS technologies.
+
+You can watch my Frontend projects following this link: https://vercel.com/inanocs
 <!--
 **inanocs/inanocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
