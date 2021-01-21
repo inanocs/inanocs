@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 - I'm currently studying Web Development (DAW) (2019/now) at [Azarquiel](http://www.ies-azarquiel.es/)
 
 ## 💻**Current Learning**
-- ✔Advanced **CSS3** (**media-query**,**animations**,**transform**) and **Responsive Web Design** using **Grid** and **Flexbox**
-- ✔JS libraries like **React** and frameworks like **Vue.js**.
-- ✔Backend techs with Java EE (**JSP**,**JSF**)
+- ✔ Web Design with **SASS** and **PUG**
+- ✔ NodeJS and Express
+- ✔ JS libraries like **React** and frameworks like **Vue.js**.
+- ✔ Backend techs with Java EE (**JPA**,**JSF**)
 ## ⚙**𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
 <table align="center>
@@ -45,6 +46,20 @@ Here are some ideas to get you started:
       <td width="33%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+     <tr valign="top">
+      <td width="33%" align="center">
+        <span>PUG</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+      </td>
+      <td width="33%" align="center">
+        <span>SASS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+       <td width="33%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
     </tr>
     <tr valign="top">
