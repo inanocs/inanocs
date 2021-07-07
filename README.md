@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ✔ Web Design with **SASS** and **PUG**
 - ✔ NodeJS and Express
 - ✔ JS libraries like **React** and frameworks like **Vue.js**.
-- ✔ Backend techs with Java EE (**JPA**,**JSF**)
+- ✔ Backend techs with Java EE (**JPA**,**JSF**,**Spring**)
 ## ⚙**𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
 <table align="center>
