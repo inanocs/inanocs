@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 📚**Education**
 
 - I have a degree on Network SysAdmin (ASIR) (2016/2018) at [Azarquiel](http://www.ies-azarquiel.es/)
-- I'm currently studying Web Development (DAW) (2019/now) at [Azarquiel](http://www.ies-azarquiel.es/)
+- I'm have a degree on Web Development (DAW) (2019/2021) at [Azarquiel](http://www.ies-azarquiel.es/)
 
 ## 💻**Current Learning**
 - ✔ Web Design with **SASS** and **PUG**
