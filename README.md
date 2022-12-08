@@ -1,7 +1,7 @@
 ## 👋**Hi, i'm Fernando!** 
 
 ## 🤔**About me**
-I'm a 23 years old **Web Developer** and **Sysadmin**. I love all about Linux, open source, fullstack web development and new JS technologies.
+I'm a 24 years old **Web Developer** and **Sysadmin**. I love all about Linux, open source, fullstack web development and new JS technologies.
 
 You can watch my Frontend projects following this link: https://vercel.com/inanocs
 
