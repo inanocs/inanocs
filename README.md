@@ -1,26 +1,11 @@
 ## 👋**Hi, i'm Fernando!** 
 
 ## 🤔**About me**
-I'm a 24 years old **Web Developer** and **Sysadmin**. I love all about Linux, open source, fullstack web development and new JS technologies.
+I'm a 24 years old **FullStack Developer**. I love all about backend, frontend developments with JavaScript or Java technologies.
 
 You can watch my Frontend projects following this link: https://vercel.com/inanocs
 
 You can watch my technical skills in: https://app.codesignal.com/profile/inanocs
-<!--
-**inanocs/inanocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## 📚**Education**
 
@@ -28,10 +13,9 @@ Here are some ideas to get you started:
 - I have a degree on Web Development (DAW) (2019/2021) at [Azarquiel](http://www.ies-azarquiel.es/)
 
 ## 💻**Current Learning**
-- ✔ Web Design with **SASS** and **PUG**
-- ✔ NodeJS and Express
-- ✔ JS libraries like **React** and frameworks like **Vue.js**.
-- ✔ Backend techs with Java EE (**JPA**,**JSF**,**Spring**)
+- ✔ Docker and Kubernetes
+- ✔ Fastify JS
+- ✔ Reactive programming in Java with Spring Webflux
 ## ⚙**𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲**
 
 <table align="center>
